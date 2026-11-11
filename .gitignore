@@ -1,0 +1,20 @@
+# STM32CubeIDE build outputs
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.map
+
+# IDE internal settings
+.settings/
+.project
+.cproject
+
+# Proteus backup files
+*.pdsbak
+*.pdsuser
+*.workspace
+*.pdsbak.*
